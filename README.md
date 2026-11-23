@@ -25,6 +25,10 @@ Barber Booking is a mobile-first application concept that helps customers choose
 
 - [Homework 9 — Iteration, components and mini design system](homework/09/README.md)
 
+- [Homework 10 — Project presentation](homework/10/README.md)
+
+[Present the project](https://www.figma.com/deck/fCET1gV14Q11NgQ1fX6xlb) · [Final verification and remaining tasks](project/docs/final-verification.md)
+
 ## Individual project
 
 [Project description and weekly timeline](project/README.md)

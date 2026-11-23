@@ -2,7 +2,7 @@
 
 A mobile-first booking concept for customers who want to choose a barber service, see price and availability, and confirm an appointment without waiting for messages.
 
-Current status: Homework 1–9 Figma deliverables prepared. Homework 9 has native component variants, a checked focus design criterion and a Ready for dev screen; its Kanban status update remains pending after browser interruption. Homework 8 records three student-reported tests with unaided completion and confirmation recognition; timing and full detail recall were not recorded. The review reminder and mini UI guideline are prepared. No final-project acceptance is claimed.
+Current status: Homework 1–10 artifacts prepared. Homework 10 has a separate Figma Slides presentation and PowerMD source. [Final verification](docs/final-verification.md) records evidence gaps, incomplete earlier Kanban tracking and submission/rehearsal tasks. The original 4/5 within 60 seconds target remains unverified. No final-project acceptance is claimed.
 
 ## Timeline
 
@@ -18,6 +18,8 @@ Current status: Homework 1–9 Figma deliverables prepared. Homework 9 has nativ
 | 08 | Three reported usability tests, findings, review refinement and mini UI guideline | [Homework 8](../homework/08/README.md) |
 
 | 09 | Native components/state variants, decision log, technical check and screen handoff | [Homework 9](../homework/09/README.md) |
+
+| 10 | Evidence-based presentation, final prototype/demo backup and ten-homework audit | [Homework 10](../homework/10/README.md) |
 
 ## GitHub Projects
 
