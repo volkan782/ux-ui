@@ -7,9 +7,9 @@ neptun: C09332
 
 ## Status: In progress — interview required
 
-Prepared the research plan and interview guide for Barber Booking. No interview has been conducted and no findings, persona, or journey are claimed. Homework 1 is unchanged.
+Prepared the research plan and interview guide for Barber Booking in a separate FigJam file, with labeled sections, colored sticky notes, an evidence workspace, insight chains, a persona template, and a journey table. All evidence fields remain pending the real interview. No interview has been conducted and no findings, persona, or journey are claimed. Homework 1 is unchanged.
 
-[Existing FigJam board — Homework 2 research plan](https://www.figma.com/board/eiKklpUvwx3SQisGTWP1qE/Barber-Booking-%E2%80%94-UX-UI-Project.)
+[Barber Booking — Homework 2: separate FigJam board](https://www.figma.com/board/HXGTBORGvPtG4K8eBLLKtx/Barber-Booking-%E2%80%94-Homework-2)
 
 ## Research plan
 
