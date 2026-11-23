@@ -58,15 +58,15 @@ Evidence: HW5 P2. Revised wording was not retested.
 
 ---
 
-<!--@slide 6 · Completion is preliminary-->
-# Completion is preliminary
+<!--@slide 6 · Five timed completions-->
+# Five timed completions
 
-HW8: three people reportedly finished both tasks
-without help and recognized confirmation.
-No unusual behavior was reported.
-Timing and full detail recall were not recorded.
+Five participants: 60 seconds each by stopwatch.
+All completed unaided and identified all details.
+Confirmation and unavailable-date recovery understood.
+Source: student-reported follow-up; no comments.
 
-<!-- Speaker notes: 03:20–04:05. Consent and completion were reported by the student. Notes are brief and second-hand, with no exact quotations or detailed action traces. Do not infer zero errors. HW7's one-student trial also reported direct confirmation; this does not prove details were ignored. -->
+<!-- Speaker notes: 03:20–04:05. The student explicitly confirmed all five took 60 seconds each, measured with a stopwatch. All completed both tasks without help, identified all appointment details, recognized Booking confirmed and handled the unavailable date. No pauses, mistakes or comments were reported. Earlier three-person notes are historical; overlap is unknown. No raw timing logs, device/date or detailed individual action traces were supplied. These are reported results, not trials observed by the assistant. -->
 
 ---
 
@@ -82,15 +82,15 @@ Rationale: evidence gaps; no proven user benefit yet.
 
 ---
 
-<!--@slide 8 · Separate checks from proof-->
-# Separate checks from proof
+<!--@slide 8 · Target met in this sample-->
+# Target met in this sample
 
-Design check: 2px focus outline, 17.40:1 on white.
-Passes its ≥2px / ≥3:1 design criterion.
-Original target: 4/5 unaided within 60 seconds.
-That target remains unverified. Evidence: HW1, HW9.
+Target: at least 4/5 unaided within 60 seconds.
+Reported follow-up: 5/5 at exactly 60 seconds.
+Each identified the correct booking details.
+Focus check remains separate: 2px, 17.40:1.
 
-<!-- Speaker notes: 04:50–05:30. Explain measured technical evidence versus human outcomes. Figma inspection verified a 2px stroke and the contrast was calculated from sRGB luminance. This is not a keyboard user test, whole-interface accessibility claim or speed result. Three untimed reports cannot establish the original target. -->
+<!-- Speaker notes: 04:50–05:30. The specified threshold is at most 60 seconds, so the five reported 60-second completions satisfy it. Result: 5 of 5 in this small sample, by the student's stopwatch report. This is not independent observation or a before/after causal comparison. The 2px focus and 17.40:1 check is technical evidence, not a keyboard user test or whole-interface accessibility validation. -->
 
 ---
 
@@ -122,9 +122,9 @@ Source: static copies of the final HW9 screens; not research or a new test.
 <!--@slide 11 · Strong evidence has limits-->
 # Strong evidence has limits
 
-Strongest: a concrete past booking account;
-reported trials support basic completion only.
-No backend; other services/times remain static.
-Next: record time/detail recall and test keyboard use.
+Concrete past booking research guided the design.
+Five timed completions now meet the sample target.
+No controlled comparison or keyboard test yet.
+Next: keyboard focus, validation and real availability.
 
-<!-- Speaker notes: 06:25–07:10, after a brief backup-state view if needed. Reflect: tracing a real past event to a narrow design decision is stronger than treating a product preference as validation. I would recruit enough relevant users to measure the original target, record detail recall, and test focus and recovery in a keyboard-enabled implementation. Present-day evidence cannot prove adoption or operational availability. -->
+<!-- Speaker notes: 06:25–07:10. Reflect on the evidence chain: a concrete booking account led to visible availability and a narrow task. Five student-reported stopwatch tests now meet the original booking criterion and include correct detail identification. Small-sample, aggregate reports do not prove adoption, population-wide performance or the isolated effect of the reminder/components. The next useful work is keyboard-enabled focus/validation and operational availability, not invented additional feedback. -->

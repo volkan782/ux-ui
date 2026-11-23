@@ -4,9 +4,12 @@
 **Scope:** supplied official homework PDFs, Course Repository and Assessment PDFs; existing GitHub README submissions/assets; live Figma/FigJam file access and structure; new Homework 10 deck/playback. Completion of artifacts is not an instructor acceptance decision.
 
 ## Outcome
-All ten numbered homework submissions and separate Figma/FigJam/Slides files are available. The repository is **public**, with name/Neptun frontmatter and project timeline. All ten live sharing dialogs were checked as **Anyone can view**. Homework 1–9 content was not changed by this task.
+All ten numbered homework submissions and separate Figma/FigJam/Slides files are available. The repository is **public**, with name/Neptun frontmatter and project timeline. All ten live sharing dialogs were checked as **Anyone can view**. The original Homework 10 audit left Homework 1–9 unchanged. This later, explicitly requested evidence update changes Homework 8–10 records only; Homework 1–7 remain unchanged and prior versions stay in Git history.
 
-The audit does **not** justify saying every requirement is conclusively satisfied: Homework 8 has sparse unmeasured research records, Homework 9's validation is a technical focus-state check, and the original end-to-end success criterion is still unverified. These are explicitly reported below, rather than hidden by previous completion checklists.
+## Follow-up update — original booking target now met by report
+The student subsequently confirmed five stopwatch-measured booking trials, **60 seconds each**, no help, correct appointment details, confirmation recognition and successful unavailable-date recovery. **5/5 meet the original at-least-4/5 within ≤60 seconds criterion in this sample.** [Full record](../../homework/08/follow-up-tests.md).
+
+This closes the missing booking-time/detail outcome from the initial audit. Results are student-reported, with no raw stopwatch logs or independently observed trial. Individual action traces, device/date and a controlled comparison remain unavailable. No keyboard-accessibility or causal-improvement claim is added.
 
 ## Requirement comparison
 | Homework | Official requirement groups checked | Finding |
@@ -18,8 +21,8 @@ The audit does **not** justify saying every requirement is conclusively satisfie
 | 05 | Inventory, three-person label check, sitemap, screen functions, goal-first flow and ≥3 exceptions | Present. One ambiguous label was changed; revised wording was not retested. |
 | 06 | Main-flow wireframes, two critical states, Auto Layout, references, mobile/desktop and hierarchy notes | Eight named frames present: five mobile, E1/E2 and desktop S3. Native Auto Layout is documented. |
 | 07 | Shareable working main flow, reachable exception, task, ≥3 first-trial records and reflection | Present. One student reported unaided selection, direct confirmation and success recognition; sparse second-hand notes. |
-| 08 | Three tests, plan/consent, observations, ranked findings, justified refinement and mini UI guideline | Artifacts present, but evidence is limited: timing, detailed actions, individual backgrounds and full detail recall were not recorded. |
-| 09 | Three six-field iterations, check, reusable variants, other component, handoff and next step | Native Button/DateInput sets, summary component and Ready for dev screen present. Focus width/contrast check is technical evidence; no human improvement retest. |
+| 08 | Three tests, plan/consent, observations, ranked findings, justified refinement and mini UI guideline | Artifacts present. Five-person follow-up now supplies 60s stopwatch timing and correct detail identification for all five. Detailed action/background/device/date records remain limited. |
+| 09 | Three six-field iterations, check, reusable variants, other component, handoff and next step | Native Button/DateInput sets, summary component and Ready for dev screen present. Post-iteration booking check now reports 5/5 at 60s; focus check remains technical and no causal or keyboard claim is made. |
 | 10 | 5–10 minute evidence story, final prototype, reflection and short demo with backup | Separate 11-slide Figma Slides deck, notes, clickable prototype and static backup present. Planned ~7:10; actual delivery unmeasured. |
 
 ### Live file and repository links
@@ -39,25 +42,25 @@ The audit does **not** justify saying every requirement is conclusively satisfie
 Sharing was checked from the owner's live sharing dialogs. A separate signed-out/incognito trial was not performed, and is not claimed. The repository API identifies visibility as public.
 
 ## Material evidence gaps and remaining work
-### 1. Original success criterion cannot be evaluated
-HW1 defines at least 4 of 5 users completing service/time/confirmation within 60 seconds unaided. HW8 supplies three untimed reported completions, not five measured trials. Full appointment-detail recall was not supplied either. The target must remain **unverified**, not “passed.”
+### 1. Original booking criterion — closed by reported follow-up
+The original target is at least 4/5 unaided service/time/confirmation within 60 seconds. The student explicitly confirmed stopwatch use and exactly 60 seconds for each of five people; all completed unaided and identified the correct booking details. **5/5 qualify at the inclusive ≤60-second threshold.**
 
-To evaluate that chosen criterion, collect actual observations and timings from enough relevant participants (five for the specified 4/5 target), with assistance, correct final details and outcome recorded. This is a way to close the evidence gap, not permission to invent or backfill measurements, and not a promise that meeting a numerical target guarantees acceptance.
+Keep every reported value at 60 seconds; do not fabricate variation or raw timing logs. These are the student's reports, not independent observation. Original three-person notes are historical; overlap with the follow-up is unknown and cohorts are not summed.
 
-### 2. Homework 8 has minimal individual records
-The student reported consent and unaided completion of both tasks by three people, confirmation recognition, and no unusual behavior. Their individual booking backgrounds, action sequences, timings, devices/dates and exact quotes were not supplied. Quotes may legitimately remain “not captured”; successful tests need not reveal a defect.
+### 2. Homework 8 — current evidence and its limits
+The follow-up includes five reported timing/outcome records, correct detail identification, no help, confirmation recognition and successful recovery. The student reported no pauses, mistakes or comments. Individual rows transparently expand that aggregate report, rather than pretending five detailed transcripts were supplied.
 
-The requirement asks for relevant participants and observation notes. Existing records are brief and identical at the reported level, so participant relevance and detailed behavioral evidence cannot be independently established from them. A professor may request fuller real notes or a repeat test. No additional participant answers were created in this audit.
+Individual backgrounds, detailed click traces, device/date, exact quotes and task-2 timings remain unsupplied. Exact quotes can legitimately be “not captured”; successful tests need not reveal a problem. Do not invent any missing field. These limits remain explicit, but the booking-time/detail outcome is no longer missing.
 
-### 3. Homework 9 validation is narrower than booking success
-The 2px focus/ring specimen has a verified 2px stroke and calculated 17.40:1 contrast against white, satisfying its local width/contrast criterion. This is **other technical evidence**, not a user retest or validation of the full booking criterion. Three iterations address state/component and handoff coverage gaps; they are not three failures observed in HW8.
+### 3. Homework 9 — post-iteration outcome and separate technical check
+The 2px focus/ring specimen has a verified 2px stroke and calculated 17.40:1 contrast against white, satisfying its local width/contrast criterion. This remains **other technical evidence** about focus. The later five-person task check uses the final HW9 prototype and now meets the full booking criterion by report, including the componentized summary and inherited review reminder. Three iterations address state/component and handoff coverage gaps; they are not three failures observed in HW8. There is no controlled before/after comparison, so no isolated causal effect is established.
 
 The DateInput is the existing segmented date selector with Default/Focus/Error variants, rather than a separate text-entry field. Added focus/invalid-date states are handoff specimens, not reachable user-tested prototype routes. These implementation/evaluation choices should be clear to the instructor; acceptance of their scope is not guaranteed by this audit.
 
-### 4. Project-board tracking is incomplete
-[GitHub Projects board](https://github.com/users/volkan782/projects/1) was inspected. It contained Done items for HW3–7. No separate HW1/HW2/HW8/HW9 items were visible; HW8/HW9 administrative follow-up remains unresolved. Prior assignment tracking was not altered. Homework 10 receives its own completion item after its deliverables are saved and checked.
+### 4. Project-board tracking — completed in this update
+[GitHub Projects board](https://github.com/users/volkan782/projects/1) already contained Done records for HW3–7 and HW10. The missing HW1/HW2/HW8/HW9 completion records are added during this update, with final verification of all ten Done items.
 
-A current README timeline exists, but that does not substitute for any additional Kanban coverage the instructor expects. No claim is made that the entire semester board is complete.
+The records indicate prepared coursework, not instructor acceptance. No earlier Figma homework content was changed to backfill research.
 
 ### 5. Presentation rehearsal and formal submission are not performed
 HW10 has planned timing of approximately 7:10, within the required 5–10 minutes. Actual speaking time and live delivery have not been measured/performed. Rehearse once, check the demo fits the allotted time, and use slide 10 if the network/prototype fails.
@@ -72,11 +75,11 @@ Files being on GitHub do not prove that the instructor has received the formal f
 - Optional handout/portfolio case were not required and were not added.
 - Project README contains description, results/timeline and GitHub Projects link.
 - This audit is under `project/docs/`, as required for additional project documents.
-- Source homework files and images for HW1–9 are preserved; final Git-tree comparison is performed after publishing HW10.
+- Homework 1–7 source files/images are preserved. Prior HW8–10 submissions remain in Git history; their current evidence text is updated to the supplied five-person report.
 - No paid Figma upgrade or new unrelated product feature was added.
 
-## Homework 10 verification
-Playback shows **11 slides**. The deck starts with the problem and explains why the topic was chosen. It includes the target user, persona/journey, research lessons, solution direction, label feedback, reported trials, resulting refinements, comparison with the original criterion, final prototype, limits, reflection and next step.
+## Homework 10 verification (including follow-up update)
+Playback shows **11 slides**. The deck starts with the problem and explains why the topic was chosen. It includes the target user, persona/journey, research lessons, solution direction, label feedback, reported trials, resulting refinements, comparison with the original criterion (now 5/5 at 60 seconds by report), final prototype, limits, reflection and next step.
 
 Slide 9 contains a clickable final-prototype link; activating it opened Homework 9. Slide 10 has static native copies of final no-slots, valid-selection and confirmation states. Speaker notes supply planned timing and evidence details. The Figma Slides file is separate and does not modify earlier files.
 

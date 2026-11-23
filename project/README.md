@@ -2,7 +2,7 @@
 
 A mobile-first booking concept for customers who want to choose a barber service, see price and availability, and confirm an appointment without waiting for messages.
 
-Current status: Homework 1–10 artifacts prepared. Homework 10 has a separate Figma Slides presentation and PowerMD source. [Final verification](docs/final-verification.md) records evidence gaps, incomplete earlier Kanban tracking and submission/rehearsal tasks. The original 4/5 within 60 seconds target remains unverified. No final-project acceptance is claimed.
+Current status: Homework 1–10 artifacts prepared. The five-person follow-up reports stopwatch-measured 60-second unaided completion and correct details for all five; the original booking target is met in this reported sample. Homework 8/9 records, Homework 10 slides/source and the [final verification](docs/final-verification.md) reflect this update. No independent observation, causal improvement or instructor acceptance is claimed.
 
 ## Timeline
 
@@ -15,10 +15,8 @@ Current status: Homework 1–10 artifacts prepared. Homework 10 has a separate F
 | 05 | Prioritize content, check labels and map the booking task | [Homework 5](../homework/05/README.md) |
 | 06 | Low-fidelity Auto Layout wireframes, critical states and share access verified | [Homework 6](../homework/06/README.md) |
 | 07 | Clickable prototype, first student feedback and reflection | [Homework 7](../homework/07/README.md) |
-| 08 | Three reported usability tests, findings, review refinement and mini UI guideline | [Homework 8](../homework/08/README.md) |
-
+| 08 | Research, UI guideline and five-person timed follow-up | [Homework 8](../homework/08/README.md) |
 | 09 | Native components/state variants, decision log, technical check and screen handoff | [Homework 9](../homework/09/README.md) |
-
 | 10 | Evidence-based presentation, final prototype/demo backup and ten-homework audit | [Homework 10](../homework/10/README.md) |
 
 ## GitHub Projects

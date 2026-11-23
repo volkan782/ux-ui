@@ -15,3 +15,6 @@ The story moves from the problem and one-person research through scope, labels, 
 Use slide 9 for a short recovery demo; slide 10 is the static backup, not another test. The clickable prototype link in slide 9 was tested and opens Homework 9. Presentation playback was verified as 11 slides. Sharing: Anyone can view.
 
 No optional handout or portfolio case was added because the sources do not require it.
+
+## Five-person follow-up update
+Slides 6, 8 and 11 and their speaker notes now report five unaided 60-second stopwatch completions and correct booking details. [Evidence and limitations](../../homework/08/follow-up-tests.md). The original timing plan is unchanged; no actual presentation delivery is claimed.

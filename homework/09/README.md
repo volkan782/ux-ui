@@ -3,14 +3,21 @@ week: 09
 neptun: C09332
 ---
 # Barber Booking — Homework 9
-**Status: Figma deliverables prepared and checked. GitHub Projects status update pending after browser connection interruption. Instructor acceptance is separate.**
+**Status: Deliverables and follow-up booking check recorded; five reported unaided 60-second completions meet the original target in this sample. Instructor acceptance is separate.**
 
 [Separate Figma file](https://www.figma.com/design/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9)
 [Clickable prototype](https://www.figma.com/proto/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9?node-id=1-4&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
 The file is in Drafts because the Starter team folder reached its three-Design-file limit. Sharing was verified as **Anyone can view**. No paid upgrade was used. The completed Homework 8 canvas was copied into this separate file. Homework 1–7 are preserved.
 
-## Evidence and proportional claims
+## Follow-up task check against the original criterion
+[Full five-person record](../08/follow-up-tests.md): the student confirmed stopwatch-measured **60 seconds for each of FT1–FT5**, unaided completion, correct detail identification, confirmation recognition and unaided unavailable-date recovery. No pauses, mistakes or comments were reported.
+
+The original criterion requires at least 4/5 within ≤60 seconds: **5/5 qualify in this reported sample**. This post-iteration task check includes the componentized appointment-summary screen; it does not isolate the effect of a component or prove keyboard accessibility. It complements, rather than replaces, the technical focus check below.
+
+## Original evidence before the follow-up
+The following describes the evidence available when the design was first submitted. Missing timing/detail outcomes at that stage are now supplemented by the linked follow-up; other limits still apply.
+
 Homework 8 records the student's report of P1–P3: anonymous-note consent, both tasks completed without help, confirmation recognized and no unusual behavior reported. No exact quotes, timings, individual action traces, devices/dates or full appointment-detail recall were supplied.
 
 This supports basic reported completion and recovery, not the original four-of-five-within-60-seconds target. No reported failure justifies a wholesale redesign. The iterations address reusable states and gaps in validation/handoff coverage. They are design-structure findings, not invented participant complaints. No new human test or before/after usability improvement is claimed.
@@ -86,7 +93,7 @@ Actually checked in the Homework 9 player:
 Static alternatives remain: Beard trim, other barbers, 11:00/14:00 and 9 December. Desktop/E2 are reference designs. No live appointment, backend, payment, email or SMS.
 
 ## Concrete next step
-Test a keyboard-enabled implementation with relevant users. Record focus identification, unaided required-date/empty-day recovery, timings and full detail recall. This reduces uncertainty left by HW8's brief reports.
+Test a keyboard-enabled implementation with relevant users, focusing on visible focus and required-date validation. The reported follow-up now covers the booking-time/detail outcome; no further booking test is claimed or invented here.
 
 ## Official requirement verification
 - [x] Separate shareable Figma file.
@@ -99,8 +106,11 @@ Test a keyboard-enabled implementation with relevant users. Record focus identif
 - [x] Relevant state variants.
 - [x] Selected screen, state map, behavior/accessibility notes, variable names and Ready for dev.
 - [x] Concrete next step.
-- [ ] GitHub Projects task/status update: browser access interrupted before it could be applied.
+- [x] Follow-up task check against the original booking criterion, with source and limits recorded.
+- [x] GitHub Projects task/status update completed during this evidence update.
 
 Official source: [Homework 9](https://pte-mik.github.io/info/ux-ui-en/content/09/09-00-homework/).
 
-Homework 10 has not been started.
+Homework 10 is available in [the presentation submission](../10/README.md).
+
+[Updated follow-up evidence in Figma](follow-up-overview.jpg)
