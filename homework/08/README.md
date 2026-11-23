@@ -3,12 +3,12 @@ week: 08
 neptun: C09332
 ---
 # Barber Booking — Homework 8
-**Status: In progress — prepared for three real usability tests. Not complete.**
+**Status: Deliverables prepared with limited student-reported evidence. Instructor assessment remains separate.**
 
 [Separate Figma file](https://www.figma.com/design/DHR5u6Y4Fr0VAX58i2DU2a/Barber-Booking-%E2%80%94-Homework-8)
 [Testing prototype](https://www.figma.com/proto/DHR5u6Y4Fr0VAX58i2DU2a/Barber-Booking-%E2%80%94-Homework-8?node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
-The Homework 7 file was duplicated into a separate Homework 8 Figma Design file. Its established grayscale layout, readable typography, nine screens/states and native prototype connections are retained. No Homework 1–7 files were edited. Sharing was verified as **Anyone can view**. This is a testing baseline; evidence-based refinements are pending.
+The Homework 7 file was duplicated into a separate Homework 8 Figma Design file. Its established grayscale layout, readable typography, nine screens/states and native prototype connections are retained. No Homework 1–7 files were edited. Sharing was verified as **Anyone can view**. The tested baseline is preserved in the earlier preparation commit. A review reminder was subsequently refined.
 
 ## Test plan
 Learning goals:
@@ -34,36 +34,60 @@ T2 passes if they recover from no availability to the suitable alternative and c
 Record task outcome; elapsed seconds from task read to completion/abandonment; assistance; errors, pauses and backtracks; details identified. Record the original 60-second benchmark separately. A sample of three cannot establish the original four-of-five target.
 Afterward ask what was unclear and what made them believe booking succeeded. Record exact quotes only when captured; label paraphrases. Missing measurements are “not recorded,” never guessed.
 
-## Observation template — results pending
-Repeat for P1, P2 and P3:
-- Relevant experience; consent; date/device if known.
-- T1: completion; seconds; help; actual actions/pauses/errors; details identified.
-- T2: completion; seconds; help; actual recovery actions.
-- Observation: what happened.
-- Quote: exact words if captured, otherwise “not captured”; label paraphrases.
-- Interpretation: tentative explanation separate from facts.
+## Anonymized observations — student-reported
+Source: the student reported all three participants completed both tasks unaided, consented to anonymous notes, recognized the confirmation, and showed no unusual behavior. These are reported observations, not direct observation by the assistant. Participant-specific differences were not supplied.
 
-**No Homework 8 participant results have been supplied.**
+| Participant | Consent | T1 | T2 | Observation | Quote | Interpretation |
+| --- | --- | --- | --- | --- | --- | --- |
+| P1 | Yes, reported | Completed without help | Completed without help | Recognized confirmation; no unusual behavior reported | Not captured | Basic completion and recovery supported |
+| P2 | Yes, reported | Completed without help | Completed without help | Recognized confirmation; no unusual behavior reported | Not captured | Basic completion and recovery supported |
+| P3 | Yes, reported | Completed without help | Completed without help | Recognized confirmation; no unusual behavior reported | Not captured | Basic completion and recovery supported |
 
-## Findings and refinement — pending
-After actual tests, rank findings blocker/major/minor with a severity rationale. Each finding must contain evidence, affected task and consequence. Justify selected fixes from those findings and explain their contribution to comprehension/accessibility. Preserve the tested baseline before refining screens.
+Individual experience, dates/devices, elapsed seconds, exact clicks, errors counts, and complete detail-recall responses were **not recorded**. The report supports 3/3 reported completion and confirmation recognition, but **does not establish the entire T1 criterion or the original speed target**. Do not infer zero pauses/errors from “no unusual behavior.” Small convenience sample, brief second-hand records, no recordings: findings are preliminary.
 
-## Mini UI guideline — pending
-The Figma file includes a clearly labeled planning section. It is not yet a completed guideline. After findings: role-named color variables, actual contrast checks against AA or justified deviations, text styles, spacing and relevant button/input/icon rules. Dark mode is optional if available. No variables, styles or contrast results are claimed yet.
+## Findings ordered by consequence
+No blocker, major or minor usability defect was reported. A severity-ranked defect list would invent problems.
+- **U1 — evaluation gap (not a UI defect):** full appointment detail recall and timing were not recorded. Affects evaluation of booking accuracy/speed; consequence: no full success-criterion or efficiency claim. Highest next research priority.
+- **F1 — positive:** all three reportedly completed booking unaided and recognized confirmation. Affects T1; consequence: preserve the flow and explicit success heading.
+- **F2 — positive:** all three reportedly completed the unavailable-day task unaided. Affects T2; consequence: retain the recovery path.
+
+## Selected refinement and accessibility rationale
+The review screen reminder now says: “Check service, barber, date, time and price above. Then confirm once.”
+Evidence: full detail recall is unknown in HW8; HW7 also recorded direct confirmation. Hypothesis: explicitly naming the details supports deliberate review. This is a preventative comprehension refinement, not a participant-reported failure or proven improvement. It was visually checked for fit; no participant retest is claimed. Main flow and explicit success wording are retained because reported tests did not identify a blocker.
+
+## Mini UI guideline in Figma
+A clearly labeled guideline section documents:
+- Native variables: `surface/default = #FFFFFF`, `text/primary = #1A1A1A`, `action/primary = #1A1A1A`.
+- Native styles: `Body / 18` (Inter Regular 18/25) and `Heading / Section`, saved from established section headings.
+- Spacing: 8px base, 24px group gaps, 20px mobile edge inset.
+- Buttons: one primary per step, explicit labels, outlined secondary, no activation when disabled with adjacent reason.
+- Input/selection rules: persistent labels, selected values in words, price/duration visible, implementation focus outline and textual errors.
+- Icons: decorative beside labels; accessible names for icon-only controls.
+- Light mode only; dark mode was optional and is not claimed.
+
+### Contrast check
+Calculated using standard sRGB relative luminance: `(Llighter + .05)/(Ldarker + .05)`.
+| Pair | Ratio | Check |
+| --- | --- | --- |
+| #1A1A1A on #FFFFFF | 17.40:1 | AA normal text passes |
+| #595959 on #FFFFFF | 7.00:1 | AA normal text passes |
+| #1A1A1A on #E8E8E8 | 14.20:1 | AA normal text passes |
+
+These checked pairs occur in the grayscale screens/annotations. This is not a complete accessibility audit, keyboard test or user retest.
 
 ## Prototype limitations
 Fixed sample appointments; no live availability/backend/payment/messages. E2 slot-conflict and desktop are reference screens. Static alternatives are not fully interactive. All bookings are fictional demonstration data.
 
 ## Official requirement verification
-- [x] Separate shareable Figma baseline with test plan.
-- [x] Learning goals, participant description, scenario tasks, criteria and metrics.
-- [x] Consent briefing.
-- [ ] Anonymized observations from at least three real tests.
-- [ ] Severity-ordered findings with evidence/task/consequence.
-- [ ] Justified refinements supporting comprehension/accessibility.
-- [ ] Completed Figma mini UI guideline and actual contrast checks.
-- [ ] Final updated prototype and submission verification.
+- [x] Separate shareable Figma file and updated prototype.
+- [x] Goals, participant description, scenario tasks, success criteria and metrics.
+- [x] Consent briefing and reported consent.
+- [x] Anonymized reported notes from three tests, with observation/quote/interpretation separate.
+- [x] Findings prioritized by consequence; no invented defects or severity.
+- [x] Justified review refinement supporting comprehension.
+- [x] Figma role-named color variables, native text styles, spacing/button/input/icon rules and calculated contrast checks.
+- [x] Evidence and measurement limitations explicit.
 
-Homework 9 is not started: it requires the completed Homework 8 evidence and refinements. Homework 10 is outside the current request.
+[Prepared test plan preview](test-preparation.jpg) · [Final layout](completed-overview.jpg)
 
 Official source: [Homework 8](https://pte-mik.github.io/info/ux-ui-en/content/08/08-00-homework/).

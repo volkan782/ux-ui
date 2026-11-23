@@ -2,7 +2,7 @@
 
 A mobile-first booking concept for customers who want to choose a barber service, see price and availability, and confirm an appointment without waiting for messages.
 
-Current status: Homework 1–7 deliverables prepared and checked. Homework 7 contains a separate clickable sample booking flow, an empty-date recovery path, and one user-reported informal trial with three feedback/behavior records. Broader usability testing remains pending. No final-project acceptance is claimed.
+Current status: Homework 1–8 deliverables prepared. Homework 8 records three student-reported tests with unaided completion and confirmation recognition; timing and full detail recall were not recorded. The review reminder and mini UI guideline are prepared. No final-project acceptance is claimed.
 
 ## Timeline
 
@@ -15,6 +15,8 @@ Current status: Homework 1–7 deliverables prepared and checked. Homework 7 con
 | 05 | Prioritize content, check labels and map the booking task | [Homework 5](../homework/05/README.md) |
 | 06 | Low-fidelity Auto Layout wireframes, critical states and share access verified | [Homework 6](../homework/06/README.md) |
 | 07 | Clickable prototype, first student feedback and reflection | [Homework 7](../homework/07/README.md) |
+
+| 08 | Three reported usability tests, findings, review refinement and mini UI guideline | [Homework 8](../homework/08/README.md) |
 
 ## GitHub Projects
 
