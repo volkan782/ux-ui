@@ -19,6 +19,8 @@ Barber Booking is a mobile-first application concept that helps customers choose
 
 - [Homework 6 — Low-fidelity wireframes](homework/06/README.md)
 
+- [Homework 7 — Clickable prototype and first feedback](homework/07/README.md)
+
 ## Individual project
 
 [Project description and weekly timeline](project/README.md)
