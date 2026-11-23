@@ -2,7 +2,7 @@
 
 A mobile-first booking concept for customers who want to choose a barber service, see price and availability, and confirm an appointment without waiting for messages.
 
-Current status: Homework 1–5 deliverables prepared and verified. Homework 6's eight native Auto Layout wireframes are built and inspected, but sharing setup remains pending; Homework 6 is not marked complete. No final-project acceptance is claimed.
+Current status: Homework 1–6 deliverables prepared and verified. Homework 6 includes eight native Auto Layout wireframes and a viewable Figma link on the free Starter team. Clickable prototyping and usability validation are pending. No final-project acceptance is claimed.
 
 ## Timeline
 
@@ -13,7 +13,7 @@ Current status: Homework 1–5 deliverables prepared and verified. Homework 6's 
 | 03 | Audit a competing booking task and derive prevention directions | [Homework 3](../homework/03/README.md) |
 | 04 | Define the problem, explore eight ideas and prioritize the booking focus | [Homework 4](../homework/04/README.md) |
 | 05 | Prioritize content, check labels and map the booking task | [Homework 5](../homework/05/README.md) |
-| 06 | Low-fidelity wireframes prepared; share access pending | [Homework 6 — not complete](../homework/06/README.md) |
+| 06 | Low-fidelity Auto Layout wireframes, critical states and share access verified | [Homework 6](../homework/06/README.md) |
 
 ## GitHub Projects
 

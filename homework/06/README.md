@@ -5,7 +5,7 @@ neptun: C09332
 
 # Homework 6 — Low-fidelity wireframes
 
-**Status: Prepared — sharing permission pending; not complete.** All eight native Auto Layout frames are built and inspected. The current Professional team requests a potentially paid Full seat when sharing. No upgrade was accepted. A free Starter-team alternative is awaiting the user's approval to accept Figma's Terms of Service when creating that team. The file link below is available to its owner; instructor/public access is not yet verified.
+**Status: Complete — required deliverables checked.** Sharing was verified on the free Starter team “Barber Booking Coursework”: Anyone can view. The original Figma file key and link were preserved, with all eight screen frames intact. Auto Layout was rechecked after the move. No paid upgrade was accepted. Instructor acceptance is separate.
 
 [Barber Booking — Homework 6: separate Figma Design file](https://www.figma.com/design/HGbsOt8goSXuvxyM3BDZSx/Barber-Booking-%E2%80%94-Homework-6)
 
@@ -87,7 +87,7 @@ Annotations identify the state changes, editing/reset behavior, processing, conf
 
 ## Official requirement verification
 
-- [ ] Shareable Figma Design link — file exists, but access is pending the sharing setup.
+- [x] Shareable Figma Design link — Anyone can view verified after moving the file to the free Starter team.
 - [x] Five mobile main-flow screens, including the main date/time decision and confirmation.
 - [x] At least two critical states worked out from HW5 branches: E1 empty and E2 changed slot.
 - [x] Black/white/grayscale simple shapes and placeholders; no photos, final colors or decorative icons.
@@ -98,10 +98,10 @@ Annotations identify the state changes, editing/reset behavior, processing, conf
 - [x] Layout logic, primary action and hierarchy explained.
 - [x] Legibility, alignment and clipping checked.
 - [x] No invented research or testing results.
-- [x] Numbered README/frontmatter, separate prepared-state commit, index/timeline and In Progress tracking.
+- [x] Numbered README/frontmatter, separate completion commit, index/timeline and Done tracking.
 - [x] Previous homework files preserved.
 
-Homework 6 must not be marked complete until share access is verified. Instructor acceptance remains separate. Attendance, final-project acceptance and the written test remain separate requirements.
+Share access is verified and Homework 6 deliverables are complete. Instructor acceptance remains separate. Attendance, final-project acceptance and the written test remain separate requirements.
 
 ## Official sources
 
@@ -110,3 +110,9 @@ Homework — Low-fidelity wireframe, Wireframes and visual hierarchy, Course Rep
 ## Wireframe overview
 
 ![Homework 6 native Figma wireframes](wireframe-overview.jpg)
+
+## Sharing verification
+
+Moved the existing file to the free Starter team without changing its key/link. All eight named screen frames remain present. M-S3 retained native Auto Layout at 390px width after the move; the prior eight-frame checks remain valid. The Figma sharing dialog shows Anyone can view.
+
+![Verified Figma viewing access](sharing-verified.jpg)
