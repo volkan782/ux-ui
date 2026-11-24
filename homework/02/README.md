@@ -9,8 +9,6 @@ neptun: C09332
 
 [Barber Booking — Homework 2: FigJam research board](https://www.figma.com/board/HXGTBORGvPtG4K8eBLLKtx/Barber-Booking-%E2%80%94-Homework-2)
 
-Homework 1 remains unchanged. This assignment investigates its assumptions using one participant's account. Completion means the deliverables have been checked against the assignment, not instructor acceptance.
-
 ## Research plan
 
 **Design decision:** Which service information, availability choices, and confirmation details should the booking flow prioritize?
