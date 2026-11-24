@@ -9,7 +9,7 @@ neptun: C09332
 
 [Barber Booking — Homework 6: separate Figma Design file](https://www.figma.com/design/HGbsOt8goSXuvxyM3BDZSx/Barber-Booking-%E2%80%94-Homework-6)
 
-Builds directly on [Homework 5's checked labels, sitemap and task flow](../05/README.md). Homework 5 was verified and committed separately before work started on this file. Homework 1–5 remain unchanged.
+Builds directly on [Homework 5's checked labels, sitemap and task flow](../05/README.md). 
 
 ## Scope and status
 
