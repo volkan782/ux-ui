@@ -4,7 +4,7 @@
 **Scope:** supplied official homework PDFs, Course Repository and Assessment PDFs; existing GitHub README submissions/assets; live Figma/FigJam file access and structure; new Homework 10 deck/playback. Completion of artifacts is not an instructor acceptance decision.
 
 ## Outcome
-All ten numbered homework submissions and separate Figma/FigJam/Slides files are available. The repository is **public**, with name/Neptun frontmatter and project timeline. All ten live sharing dialogs were checked as **Anyone can view**. The original Homework 10 audit left Homework 1–9 unchanged. This later, explicitly requested evidence update changes Homework 8–10 records only; Homework 1–7 remain unchanged and prior versions stay in Git history.
+All ten numbered homework submissions and separate Figma/FigJam/Slides files are available. The repository is **public**, with name/Neptun frontmatter and project timeline. All ten live sharing dialogs were checked as **Anyone can view**. The original Homework 10 audit left Homework 1–9 unchanged. This later, explicitly requested evidence update changes Homework 8–10 records only; Homework 1–7 were unchanged at that stage and prior versions stay in Git history. The subsequently requested Homework 1 visual revision is recorded below; Homework 2–10 are unchanged by that revision.
 
 ## Follow-up update — original booking target now met by report
 The student subsequently confirmed five stopwatch-measured booking trials, **60 seconds each**, no help, correct appointment details, confirmation recognition and successful unavailable-date recovery. **5/5 meet the original at-least-4/5 within ≤60 seconds criterion in this sample.** [Full record](../../homework/08/follow-up-tests.md).
@@ -28,7 +28,7 @@ This closes the missing booking-time/detail outcome from the initial audit. Resu
 ### Live file and repository links
 | Homework | Figma/FigJam/Slides | GitHub submission | Sharing check |
 | --- | --- | --- | --- |
-| 01 | [Open file](https://www.figma.com/board/eiKklpUvwx3SQisGTWP1qE/Barber-Booking-%E2%80%94-UX-UI-Project.?node-id=0-1&t=ix2Pe9SFr9au3NVP-1) | [README](../../homework/01/README.md) | Anyone can view |
+| 01 | [Open file](https://www.figma.com/board/x66Wm270l3VZomh9uiX5Wo/Barber-Booking-%E2%80%94-Homework-1) | [README](../../homework/01/README.md) | Anyone can view |
 | 02 | [Open file](https://www.figma.com/board/HXGTBORGvPtG4K8eBLLKtx/Barber-Booking-%E2%80%94-Homework-2) | [README](../../homework/02/README.md) | Anyone can view |
 | 03 | [Open file](https://www.figma.com/board/7t6AUR8c0ErCuqP8IkqZAH/Barber-Booking-%E2%80%94-Homework-3) | [README](../../homework/03/README.md) | Anyone can view |
 | 04 | [Open file](https://www.figma.com/board/zUSL1U7OCtPFIRDwXQqLzD/Barber-Booking-%E2%80%94-Homework-4) | [README](../../homework/04/README.md) | Anyone can view |
@@ -90,3 +90,16 @@ An offered grade is the instructor's decision; otherwise the oral exam/project d
 
 ## Official sources
 Supplied Homework 1–10 PDFs, Course Repository, Assessment and Grading System and Project presentation and portfolio PDFs. [Course repository guidance](https://pte-mik.github.io/info/ux-ui-en/resources/class-work/) · [Assessment](https://pte-mik.github.io/info/ux-ui-en/resources/assessment/).
+
+## Homework 1 visual consistency revision — 24 November 2026
+
+At the student's explicit request, a **separate Homework 1 FigJam copy** was rebuilt using the established Homework 3 native sticky template: 12 Medium-text cards in three columns, teal/orange/violet colors, a labeled section and two directional connectors. The original student-created board remains intact. No original Homework 2–10 file was edited.
+
+- [Revised canonical Homework 1 board](https://www.figma.com/board/x66Wm270l3VZomh9uiX5Wo/Barber-Booking-%E2%80%94-Homework-1)
+- [Updated submission and requirement checklist](../../homework/01/README.md)
+- [Board overview](../../homework/01/board-overview.jpg)
+- Original problem, goals, target users, constraints, riskiest assumption and **at least 4/5 within 60 seconds without assistance** criterion retained. Source labels distinguish assumptions from proposed project scope.
+- Official Homework 1 deliverable groups checked: problem/user/context, separate goals, principal constraint, one-sentence framing, measurable criterion, source-marked assumption map/risk and short visual pitch.
+- All 12 sticky notes inherit the verified Medium template; a selected problem card displayed Medium in its toolbar and was checked at readable zoom.
+- Sharing saved and checked as **Anyone can view** in the live owner dialog. No separate signed-out trial is claimed.
+- No interview or test results were added to this initial framing board. The earlier target/results distinction and the later follow-up evidence remain unchanged.

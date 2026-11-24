@@ -8,7 +8,7 @@ Current status: Homework 1–10 artifacts prepared. The five-person follow-up re
 
 | Week | Goal / milestone | Verifiable result |
 | --- | --- | --- |
-| 01 | Define problem and success target | [Homework 1](../homework/01/README.md) |
+| 01 | Define problem and success target; visually consistent FigJam revision | [Homework 1](../homework/01/README.md) |
 | 02 | Research, persona and journey | [Homework 2](../homework/02/README.md) |
 | 03 | Audit a competing booking task and derive prevention directions | [Homework 3](../homework/03/README.md) |
 | 04 | Define the problem, explore eight ideas and prioritize the booking focus | [Homework 4](../homework/04/README.md) |
@@ -25,4 +25,4 @@ Current status: Homework 1–10 artifacts prepared. The five-person follow-up re
 
 ## Working conventions
 
-Each remaining homework uses its own FigJam/Figma file with labeled visual sections and Medium (M) editable text/sticky notes. Verify the official requirements and update its numbered homework folder before marking it complete. Preserve Homework 1. Use real participant evidence only; label design hypotheses and unobserved states explicitly.
+Each homework uses its own FigJam/Figma file with labeled visual sections and Medium (M) editable text/sticky notes. Verify the official requirements and update its numbered homework folder before marking it complete. Preserve prior versions; revise an existing homework only when explicitly requested. Use real participant evidence only; label design hypotheses and unobserved states explicitly.
