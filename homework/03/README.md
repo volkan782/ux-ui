@@ -7,7 +7,7 @@ neptun: c09332
 
 Audited a competing haircut-booking task, documented six evidence-based findings, checked accessibility manually, reviewed all six interface states, added persona risk hypotheses and three preventive directions for Barber Booking.
 
-**FigJam:** [Barber Booking — Homework 3](https://www.figma.com/board/7t6AUR8c0ErCuqP8IkqZAH/Barber-Booking-%E2%80%94-Homework-3) — anyone with the link can view. Separate file; editable note text uses Medium (M). Homework 1 and Homework 2 are unchanged.
+**FigJam:** [Barber Booking — Homework 3](https://www.figma.com/board/7t6AUR8c0ErCuqP8IkqZAH/Barber-Booking-%E2%80%94-Homework-3) 
 
 ## Scope and method
 
