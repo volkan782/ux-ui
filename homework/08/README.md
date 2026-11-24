@@ -8,8 +8,6 @@ neptun: C09332
 [Separate Figma file](https://www.figma.com/design/DHR5u6Y4Fr0VAX58i2DU2a/Barber-Booking-%E2%80%94-Homework-8)
 [Testing prototype](https://www.figma.com/proto/DHR5u6Y4Fr0VAX58i2DU2a/Barber-Booking-%E2%80%94-Homework-8?node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
-The Homework 7 file was duplicated into a separate Homework 8 Figma Design file. Its established grayscale layout, readable typography, nine screens/states and native prototype connections are retained. No Homework 1–7 files were edited. Sharing was verified as **Anyone can view**. The tested baseline is preserved in the earlier preparation commit. A review reminder was subsequently refined.
-
 ## Current result — five stopwatch-measured follow-up tests
 The student explicitly confirmed that all five participants took **60 seconds each, measured with a stopwatch**, completed booking without help, identified all appointment details, recognized confirmation and handled the unavailable-date task without help. No pauses, mistakes or comments were reported.
 
