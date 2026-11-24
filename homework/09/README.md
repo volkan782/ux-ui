@@ -8,7 +8,7 @@ neptun: C09332
 [Separate Figma file](https://www.figma.com/design/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9)
 [Clickable prototype](https://www.figma.com/proto/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9?node-id=1-4&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
 
-The file is in Drafts because the Starter team folder reached its three-Design-file limit. Sharing was verified as **Anyone can view**. No paid upgrade was used. The completed Homework 8 canvas was copied into this separate file. Homework 1–7 are preserved.
+The file is in Drafts because the Starter team folder reached its three-Design-file limit. 
 
 ## Follow-up task check against the original criterion
 [Full five-person record](../08/follow-up-tests.md): the student confirmed stopwatch-measured **60 seconds for each of FT1–FT5**, unaided completion, correct detail identification, confirmation recognition and unaided unavailable-date recovery. No pauses, mistakes or comments were reported.
