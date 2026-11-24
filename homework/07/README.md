@@ -10,7 +10,6 @@ neptun: C09332
 - [Separate Figma design file](https://www.figma.com/design/tVuaS2qZ3hUazyXIm6Rpqh/Barber-Booking-%E2%80%94-Homework-7)
 - [Start the clickable prototype](https://www.figma.com/proto/tVuaS2qZ3hUazyXIm6Rpqh/Barber-Booking-%E2%80%94-Homework-7?node-id=2-2&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 
-Based on a separate copy of Homework 6. Homework 1–6 files remain unchanged. The same grayscale, editable Auto Layout structure and readable typography are retained.
 
 ## Supported task and start/success
 
