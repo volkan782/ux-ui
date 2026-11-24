@@ -13,9 +13,6 @@ neptun: C09332
 ## Updated outcome
 [Five-person follow-up](../08/follow-up-tests.md): each participant reportedly completed unaided in 60 seconds by stopwatch, correctly identified the appointment details, understood confirmation and recovered from the unavailable date. **5/5 meet the ≥4/5 within ≤60s criterion in this sample.** Slides 6, 8 and 11 and their speaker notes now reflect this evidence. Original aggregate three-person notes remain historical.
 
-## What was completed
-A separate eleven-slide Figma Slides deck, using the established black/white/grayscale approach, large readable native text, consistent title/body layouts and clearly separated claims. Slides have one principal claim each. A static three-state prototype backup provides a visual comparison rather than relying solely on a list of screens. No Homework 1–9 content was edited.
-
 ## Evidence-based story and planned timing
 | Slide | Main claim / purpose | Evidence | Planned time |
 | --- | --- | --- | --- |
