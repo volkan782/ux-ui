@@ -14,6 +14,9 @@ The student explicitly confirmed that all five participants took **60 seconds ea
 **Result: 5/5 meet the original at-least-4/5 within ≤60-seconds target in this reported sample.** [Full follow-up record and limitations](follow-up-tests.md). This is not independent observation or a controlled before/after comparison. The original three-person notes below remain historical; participant overlap is unknown and samples are not added together.
 
 ## Test plan
+
+**Participant background:** The student clarified that the testers book haircut appointments by phone and reported a good experience with no problems. This is a collective description of relevant booking experience, not individual profiles. Booking frequency, demographics and participant-specific differences were not recorded.
+
 Learning goals:
 1. Can relevant users book the intended appointment unaided and recognize confirmation and correct details?
 2. Can they recover from a date with no available appointments?
@@ -46,7 +49,7 @@ Source: the student reported all three participants completed both tasks unaided
 | P2 | Yes, reported | Completed without help | Completed without help | Recognized confirmation; no unusual behavior reported | Not captured | Basic completion and recovery supported |
 | P3 | Yes, reported | Completed without help | Completed without help | Recognized confirmation; no unusual behavior reported | Not captured | Basic completion and recovery supported |
 
-In that original round, individual experience, dates/devices, elapsed seconds, exact clicks, errors counts, and complete detail-recall responses were **not recorded**. The report supports 3/3 reported completion and confirmation recognition, but **does not establish the entire T1 criterion or the original speed target**. Do not infer zero pauses/errors from “no unusual behavior.” Small convenience sample, brief second-hand records, no recordings: findings are preliminary.
+In that original round, individual experience differences, dates/devices, elapsed seconds, exact clicks, errors counts, and complete detail-recall responses were **not recorded**. The report supports 3/3 reported completion and confirmation recognition, but **does not establish the entire T1 criterion or the original speed target**. Do not infer zero pauses/errors from “no unusual behavior.” Small convenience sample, brief second-hand records, no recordings: findings are preliminary.
 
 ## Original findings ordered by consequence
 No blocker, major or minor usability defect was reported. A severity-ranked defect list would invent problems.

@@ -7,7 +7,7 @@ The student was given the final Homework 9 prototype and instructed to test five
 1. Book a Haircut with Barber A on 7 December 2026 at 10:00, budget 600 CZK, without a walkthrough. Start timing after the task is read; stop when the participant says it is booked. Then ask for service, barber, date, time and price and how confirmation was recognized.
 2. Restart; try 8 December, with 7 December at 10:00 as an acceptable alternative. Observe recovery without help.
 
-The student answered yes to the relevance/consent questions in the aggregate response. Individual booking backgrounds, device, actual trial date and a detailed moderation log were not supplied. Those details are not invented.
+The student answered yes to the relevance/consent questions in the aggregate response. **Participant background:** The student clarified that the testers book haircut appointments by phone and reported a good experience with no problems. This is a collective description of relevant booking experience, not individual profiles. Booking frequency, demographics and participant-specific differences were not recorded. Device, actual trial date and a detailed moderation log were not supplied.
 
 ## Reported records
 FT1–FT5 are anonymous labels for this follow-up. Whether they overlap with the original three participants is unknown; do not add the samples together. The rows below expand the student's single aggregate report, not five separately supplied transcripts.
@@ -42,4 +42,4 @@ These tasks used the final Homework 9 prototype supplied to the student, includi
 
 There is no controlled before/after comparison, so this does not establish that the reminder, components or another particular change caused success. It does not test the added keyboard-focus/required-date handoff specimens or real server availability. The separate 2px/17.40:1 focus design check remains technical evidence.
 
-A small convenience sample and brief aggregate report do not establish population-wide usability. Detailed action traces, device/date and individual backgrounds remain unknown. Future keyboard/validation and operational checks are next-step design work, not fabricated completed tests.
+A small convenience sample and brief aggregate report do not establish population-wide usability. Detailed action traces, device/date and participant-specific background differences remain unknown. Future keyboard/validation and operational checks are next-step design work, not fabricated completed tests.

@@ -14,7 +14,6 @@ Created a separate, visually consistent FigJam revision of the original Barber B
 - [Original student-created board — preserved](https://www.figma.com/board/eiKklpUvwx3SQisGTWP1qE/Barber-Booking-%E2%80%94-UX-UI-Project.)
 - [Original README before this visual revision](https://github.com/volkan782/ux-ui/blob/7941ad96ed47b0499746e7fd2d3a9b328105f5b1/homework/01/README.md)
 
-![Homework 1 — board overview](board-overview.jpg)
 
 ## Problem framework
 
@@ -100,7 +99,7 @@ Checked against the supplied **Homework – Finding an idea and exploring the pr
 - [x] Assumption map with sources and the riskiest claim.
 - [x] Short visual first pitch.
 - [x] Medium (M) sticky text and established pastel visual style.
-- [x] Numbered `homework/01/README.md`, week/Neptun frontmatter, verifiable external link and local preview.
+- [x] Numbered `homework/01/README.md`, week/Neptun frontmatter, verifiable external link and a shareable FigJam deliverable.
 - [x] Original board preserved; Homework 2–10 files not edited.
 
 This revision changes presentation and makes the existing framing explicit. It adds no invented research or testing results. Completion here means the deliverable is prepared, not an instructor grading decision.

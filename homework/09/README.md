@@ -3,7 +3,7 @@ week: 09
 neptun: C09332
 ---
 # Barber Booking — Homework 9
-**Status: Deliverables and follow-up booking check recorded; five reported unaided 60-second completions meet the original target in this sample. Instructor acceptance is separate.**
+**Status: Design-system deliverables and follow-up booking check recorded. Iteration evidence and chronology clarified; the test-derived scope limitation below remains open.**
 
 [Separate Figma file](https://www.figma.com/design/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9)
 [Clickable prototype](https://www.figma.com/proto/R2lUWTNhtN1qjitk6AM9LK/Barber-Booking-%E2%80%94-Homework-9?node-id=1-4&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
@@ -24,15 +24,17 @@ This supports basic reported completion and recovery, not the original four-of-f
 
 ## Decision log
 
+These entries distinguish the review refinement inherited from HW8 from the HW9 component/state work. Positive findings support retaining successful behavior. Coverage gaps and technical findings are identified separately from participant observations.
+
 | Iteration | Evidence / finding | Checkable hypothesis | Change | Rejected alternative / trade-off | Expected effect | Open question |
 | --- | --- | --- | --- | --- | --- | --- |
-| I1 — reusable actions | HW8's reported flow worked; action controls were independent frames | A native set can expose Primary, Secondary and Disabled while retaining the understood flow | Button set with three State variants, 18px labels, 16px padding and minimum 56px height | Wholesale restyling lacks evidence. A local library still requires deliberate adoption on later screens | Reduce inconsistent maintenance; preserve comprehension | Can future editors apply the correct state without guidance? |
-| I2 — visible focus | HW8 did not test keyboard use; no separate focus specimen existed | A 2px outline with ≥3:1 contrast can distinguish focus from selection | DateInput Focus variant with stroke bound to focus/ring | Fill-only focus could be mistaken for selection; an outline adds visual weight | Make active input identifiable and specify implementation | Does focus remain visible with zoom and real keyboard use? |
-| I3 — invalid date | Recovery worked by report, but missing-date validation and detailed actions were unstudied | Explicit default/focus/error input states and textual recovery rules reduce implementation ambiguity | DateInput Default / Focus / Error; Error says No date / Required; handoff defines adjacent helper and disabling Continue until date+time valid | Red-only errors or an unrelated personal-data form; selected approach stays within existing date selection | Make validation comprehensible without color and reduce guessing | Can users recover from this additional validation state unaided? |
+| I1 — deliberate appointment review | Original HW8 T1 reported completion and confirmation recognition, but full detail checking was not recorded | Naming the five details beside Confirm supports deliberate review | Reminder: “Check service, barber, date, time and price above. Then confirm once.” Implemented in HW8 refinement and retained in HW9 | Another review screen adds steps without a reported need | Preserve completion while prompting an explicit detail check | Does this improve checking compared with earlier wording? The later result does not isolate its effect |
+| I2 — reusable appointment summary | HW8 users reportedly completed and recognized confirmation; technical inspection found a local summary group | One reusable component can retain the understood information order and reduce inconsistent edits | Date/time summary converted to a main component; library instance demonstrates reuse; service, barber, date, time, duration and price retained | Redesigning the successful summary lacks evidence; independent copies risk divergent edits | Preserve recognition and provide a reusable detail contract | Can future editors reuse it correctly? Booking tests do not assess editing the library |
+| I3 — explicit date-input states | HW8 T2 recovery worked by report; missing-date validation and keyboard focus were untested | Default/Focus/Error variants with textual recovery rules clarify invalid states and implementation | DateInput variants; 2px focus/ring outline; No date / Required; adjacent helper and Continue disabled until valid date AND time | Red-only errors rely on color; an unrelated form expands scope | Consistent recovery and non-color-only state meaning | Can users recover from missing-date validation in a keyboard-enabled implementation? Not yet user-tested |
 
-These are state/component and handoff iterations, not three discovered usability failures.
+I1 is an inherited refinement, not a new change after the five-person follow-up. I2/I3 are preservation and coverage decisions informed by positive tests and technical inspection. **The strict interpretation that all three must be new HW9 fixes directly demonstrated necessary by HW8 tests remains open.** Rewriting this log does not create additional research evidence.
 
-## Check of I2 against a criterion
+## Check of I3 against a criterion
 - Criterion: outline at least **2px**, contrast at least **3:1** against white.
 - Inspected native DateInput Focus: **2px** stroke bound to **focus/ring #1A1A1A**.
 - Calculated standard sRGB relative-luminance contrast against #FFFFFF: **17.40:1**.
@@ -97,7 +99,8 @@ Test a keyboard-enabled implementation with relevant users, focusing on visible 
 
 ## Official requirement verification
 - [x] Separate shareable Figma file.
-- [x] At least three decision-log iterations with all six required fields.
+- [x] Three actual iteration records with all six required fields and explicit chronology/evidence sources.
+- [ ] Strict test-derived iteration scope: I1 was refined in HW8; I2/I3 address reuse and untested state coverage. Three new HW9 fixes directly necessary from HW8 test problems are not claimed.
 - [x] At least one modification checked against a criterion, with limitations.
 - [x] Separate clear mini design system page.
 - [x] Native Primary, Secondary and Disabled buttons.
@@ -112,5 +115,3 @@ Test a keyboard-enabled implementation with relevant users, focusing on visible 
 Official source: [Homework 9](https://pte-mik.github.io/info/ux-ui-en/content/09/09-00-homework/).
 
 Homework 10 is available in [the presentation submission](../10/README.md).
-
-[Updated follow-up evidence in Figma](follow-up-overview.jpg)

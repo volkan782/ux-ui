@@ -156,10 +156,6 @@ This is a design hypothesis, not proof of adoption, reduced waiting or business 
 - [x] Existing homework files preserved; numbered homework folder and frontmatter supplied.
 - [x] Repository index and individual-project timeline updated; Kanban tracking updated.
 
-## Board preview
-
-![Homework 4 board overview](board-overview.jpg)
-
 ## Official sources reviewed
 
 - Homework — Problem definition and opportunity search, supplied project-source PDF ([course page](https://pte-mik.github.io/info/ux-ui-en/content/04/04-00-homework/)).

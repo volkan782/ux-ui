@@ -97,9 +97,20 @@ At the student's explicit request, a **separate Homework 1 FigJam copy** was reb
 
 - [Revised canonical Homework 1 board](https://www.figma.com/board/x66Wm270l3VZomh9uiX5Wo/Barber-Booking-%E2%80%94-Homework-1)
 - [Updated submission and requirement checklist](../../homework/01/README.md)
-- [Board overview](../../homework/01/board-overview.jpg)
 - Original problem, goals, target users, constraints, riskiest assumption and **at least 4/5 within 60 seconds without assistance** criterion retained. Source labels distinguish assumptions from proposed project scope.
 - Official Homework 1 deliverable groups checked: problem/user/context, separate goals, principal constraint, one-sentence framing, measurable criterion, source-marked assumption map/risk and short visual pitch.
 - All 12 sticky notes inherit the verified Medium template; a selected problem card displayed Medium in its toolbar and was checked at readable zoom.
 - Sharing saved and checked as **Anyone can view** in the live owner dialog. No separate signed-out trial is claimed.
 - No interview or test results were added to this initial framing board. The earlier target/results distinction and the later follow-up evidence remain unchanged.
+
+## Requirement clarification — 24 November 2026
+
+Removed stale references to deleted optional previews from HW1/4/5 and this audit. FigJam links remain.
+
+HW8: the student clarified that testers book haircuts by phone and reported a good experience/no problems. This collective background was added to the Figma plan, README and follow-up record. No individual histories or new trial results were invented.
+
+HW9: on-canvas and README decision logs now distinguish the inherited review reminder, reusable appointment summary and explicit date-input states. Each includes the required evidence, hypothesis, change, rejected alternative, expected effect and open question. Focus verification is technical evidence. No booking flow, component behavior or test result was altered.
+
+**Open scope issue:** I1 was refined in HW8 and inherited; I2/I3 primarily address reuse and coverage. This does not establish three new HW9 fixes directly necessary from HW8 observations. The README checklist leaves that stricter requirement interpretation open. This supersedes earlier blanket completion wording.
+
+HW10 content and planned timing are prepared. The student must rehearse to measure actual 5–10 minute delivery; no rehearsal result is claimed.

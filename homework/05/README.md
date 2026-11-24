@@ -146,6 +146,3 @@ Completion denotes prepared deliverables, not instructor acceptance. Attendance,
 
 Official Homework 5, Course Repository and Assessment and Grading System project-source PDFs; [Homework 5 course page](https://pte-mik.github.io/info/ux-ui-en/content/05/05-00-homework/). Research sources are linked above.
 
-## Board preview
-
-![Homework 5 board overview](board-overview.jpg)
